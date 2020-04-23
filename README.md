@@ -1,6 +1,6 @@
 # Práctica: Módulo Modern Exploration and Visualization D3 - Bootcamp KeepCoding - BIG DATA & MACHINE LEARNING
 
-# Modern Exploration and Visualization D3
+# Modern Exploration and Visualization D3.js
 
 Durante esta práctica se utiliza la librería D3 para crear y manipular SVG (Scalable Vector Graphics).
 
