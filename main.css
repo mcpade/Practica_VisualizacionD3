@@ -1,0 +1,55 @@
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 4px;
+    background: #fff;
+    border: 0px;
+    pointer-events: none;
+  }
+
+
+.red {
+    fill: red;
+}
+
+.container {
+    float: left;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulo {
+    font-size: 20px;
+    text-align: left;
+}
+
+h1 {
+    text-align: left;
+}
+
+
+
+.titulo14 {
+    font-size: 14px;
+
+}
+
+.titulo16 {
+    font-size: 16px;
+
+}
+
+.titulo14neg {
+    font-size: 14px;
+    font-weight: 700;
+    
+
+}
+
+.titulo20 {
+    font-size: 20px;
+    font-weight: 500;
+    
+}
